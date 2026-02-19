@@ -8,3 +8,7 @@
 ## Instructions
 1. Mix all ingredients in a bowl.
 2. Fry in a pan until golden.
+
+## New Instructions
+1. A
+2. B
